@@ -90,3 +90,5 @@ RegisterNumber:25018849
 
 
 **Result:**
+
+ Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
